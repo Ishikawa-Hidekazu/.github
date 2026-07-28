@@ -1,12 +1,13 @@
 # Ishikawa Hidekazu
 
-Independent open source tools for local-first AI and developer operations.
+Small, reviewable tools for safe AI operations.
 
-This organization publishes small, practical tools for people who operate AI coding workflows every day. The focus is local-first diagnostics, readable reports, and safe defaults.
+Local diagnostics, public-source intake, and evidence-ready workflows with explicit safety boundaries.
 
-## Current Project
+## Projects
 
-- [codex-healthkit](https://github.com/Ishikawa-Hidekazu/codex-healthkit) - Local health reports for daily Codex operators.
+- [codex-healthkit](https://github.com/Ishikawa-Hidekazu/codex-healthkit) - Metadata-only local health reports for daily Codex operators.
+- [public-source-extractor](https://github.com/Ishikawa-Hidekazu/public-source-extractor) - Public-URL intake with reviewable Markdown or stable JSON output.
 
 ## Principles
 
@@ -16,8 +17,10 @@ This organization publishes small, practical tools for people who operate AI cod
 - Explicit safety boundaries
 - Small tools over large platforms
 
+Built by Hidekazu Ishikawa, creator of the [CSSDA-recognized ishikawa.co](https://www.cssdesignawards.com/sites/ishikawa-co-walkable-atlas/49836/) - Special Kudos and Public Awards for UI, UX, and Innovation in 2026.
+
 ## Links
 
 - Website: https://ishikawa.co/
 
-Projects in this organization are independent and are not affiliated with OpenAI.
+Projects in this organization are independent and are not affiliated with OpenAI, Firecrawl, or CSS Design Awards.
