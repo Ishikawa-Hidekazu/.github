@@ -6,8 +6,17 @@ Local diagnostics, public-source intake, and evidence-ready workflows with expli
 
 ## Projects
 
-- [codex-healthkit](https://github.com/Ishikawa-Hidekazu/codex-healthkit) - Metadata-only local health reports for daily Codex operators.
-- [public-source-extractor](https://github.com/Ishikawa-Hidekazu/public-source-extractor) - Public-URL intake with reviewable Markdown or stable JSON output.
+### [codex-healthkit](https://github.com/Ishikawa-Hidekazu/codex-healthkit)
+
+Metadata-only local health reports for daily Codex operators.
+
+[Install](https://github.com/Ishikawa-Hidekazu/codex-healthkit#30-second-quick-start) · [Try the example](https://github.com/Ishikawa-Hidekazu/codex-healthkit#what-you-get) · [Report an issue](https://github.com/Ishikawa-Hidekazu/codex-healthkit/issues/new/choose)
+
+### [public-source-extractor](https://github.com/Ishikawa-Hidekazu/public-source-extractor)
+
+Public-URL intake with reviewable Markdown or stable JSON output.
+
+[Install](https://github.com/Ishikawa-Hidekazu/public-source-extractor#install) · [Try the example](https://github.com/Ishikawa-Hidekazu/public-source-extractor#quick-start) · [Report an issue](https://github.com/Ishikawa-Hidekazu/public-source-extractor/issues/new/choose)
 
 ## Principles
 
