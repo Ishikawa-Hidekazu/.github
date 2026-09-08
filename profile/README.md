@@ -22,5 +22,6 @@ Built by Hidekazu Ishikawa, creator of the [CSSDA-recognized ishikawa.co](https:
 ## Links
 
 - Website: https://ishikawa.co/
+- Projects: https://ishikawa.co/en/projects/
 
 Projects in this organization are independent and are not affiliated with OpenAI, Firecrawl, or CSS Design Awards.
