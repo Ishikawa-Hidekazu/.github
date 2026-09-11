@@ -12,6 +12,12 @@ Metadata-only local health reports for daily Codex operators.
 
 [Install](https://github.com/Ishikawa-Hidekazu/codex-healthkit#30-second-quick-start) · [Try the example](https://github.com/Ishikawa-Hidekazu/codex-healthkit#what-you-get) · [Report an issue](https://github.com/Ishikawa-Hidekazu/codex-healthkit/issues/new/choose)
 
+### [QuotaTempo](https://github.com/Ishikawa-Hidekazu/quota-tempo)
+
+A native macOS menu-bar app for planning weekly Codex and Claude capacity.
+
+[Download the Public Beta](https://github.com/Ishikawa-Hidekazu/quota-tempo/releases/latest) · [Read the guide](https://github.com/Ishikawa-Hidekazu/quota-tempo/blob/main/docs/user-guide.md) · [Report an issue](https://github.com/Ishikawa-Hidekazu/quota-tempo/issues/new/choose)
+
 ### [public-source-extractor](https://github.com/Ishikawa-Hidekazu/public-source-extractor)
 
 Public-URL intake with reviewable Markdown or stable JSON output.
@@ -33,4 +39,4 @@ Built by Hidekazu Ishikawa, creator of the [CSSDA-recognized ishikawa.co](https:
 - Website: https://ishikawa.co/
 - Projects: https://ishikawa.co/en/projects/
 
-Projects in this organization are independent and are not affiliated with OpenAI, Firecrawl, or CSS Design Awards.
+Projects in this organization are independent and are not affiliated with OpenAI, Anthropic, Firecrawl, or CSS Design Awards.
