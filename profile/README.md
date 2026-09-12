@@ -6,17 +6,17 @@ Local diagnostics, public-source intake, and evidence-ready workflows with expli
 
 ## Projects
 
+### [QuotaTempo](https://github.com/Ishikawa-Hidekazu/quota-tempo)
+
+A native macOS menu-bar app for planning weekly Codex and Claude capacity.
+
+[Download the Public Beta](https://github.com/Ishikawa-Hidekazu/quota-tempo/releases/latest) · [日本語ガイド](https://github.com/Ishikawa-Hidekazu/quota-tempo/blob/main/docs/user-guide.ja.md) · [Feedback and questions](https://github.com/Ishikawa-Hidekazu/quota-tempo/discussions/2) · [Read the story](https://taupe.site/entry/quotatempo-weekly-ai-capacity-planner/)
+
 ### [codex-healthkit](https://github.com/Ishikawa-Hidekazu/codex-healthkit)
 
 Metadata-only local health reports for daily Codex operators.
 
 [Install](https://github.com/Ishikawa-Hidekazu/codex-healthkit#30-second-quick-start) · [Try the example](https://github.com/Ishikawa-Hidekazu/codex-healthkit#what-you-get) · [Report an issue](https://github.com/Ishikawa-Hidekazu/codex-healthkit/issues/new/choose)
-
-### [QuotaTempo](https://github.com/Ishikawa-Hidekazu/quota-tempo)
-
-A native macOS menu-bar app for planning weekly Codex and Claude capacity.
-
-[Download the Public Beta](https://github.com/Ishikawa-Hidekazu/quota-tempo/releases/latest) · [Read the guide](https://github.com/Ishikawa-Hidekazu/quota-tempo/blob/main/docs/user-guide.md) · [Report an issue](https://github.com/Ishikawa-Hidekazu/quota-tempo/issues/new/choose)
 
 ### [public-source-extractor](https://github.com/Ishikawa-Hidekazu/public-source-extractor)
 
